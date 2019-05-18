@@ -1,0 +1,45 @@
+html {
+	background: blueviolet;
+	background-position: center;
+  	background-repeat: no-repeat;
+	background-size: cover;
+    margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+body {
+	font-family: Helvetica, sans-serif;
+	font-size: 90%;
+	padding: 10px;
+	margin: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 10px;
+	background: white;
+	color: blueviolet;
+}
+
+.card {
+	background: white;
+	color: blueviolet;
+	border: 1px solid blueviolet;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.container {
+	background: white;
+	color: blue;
+}
+
+.jumbotron {
+	background: white;
+	border: 1px solid blueviolet;
+	background-image: url(nba4.jpg);
+	background-position: center;
+  	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
